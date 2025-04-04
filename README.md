@@ -42,6 +42,10 @@ Developed an **end-to-end sales analytics solution** in Excel to evaluate busine
 ### Section B: Business Analytics Snapshot 
 [![Business Analytics Dashboard](https://github.com/Muhammad-Jan/3-Years-of-Sales-Project/blob/main/Section_B.jpg)](https://github.com/Muhammad-Jan/3-Years-of-Sales-Project/blob/main/Section_B.jpg)
 
+## Tools Used
+- **Microsoft Excel:** For data cleaning, analysis, and visualization.
+- **Pivot Tables and Charts:** For summarizing and visualizing data.
+- **Slicers:** For interactive filtering and dynamic dashboards.
 
 
 
