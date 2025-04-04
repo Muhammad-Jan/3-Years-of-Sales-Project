@@ -29,3 +29,30 @@ Developed an **end-to-end sales analytics solution** in Excel to evaluate busine
 **Highlight highest/lowest-performing sales reps** for performance management.  
 
 **Display monthly profit trends** to align budgeting and forecasting.  
+
+## Dashboard Interaction
+- **Interactive Dashboard:** [3 Years Sales Dashboard](https://docs.google.com/spreadsheets/d/1zXYDxpiyxV79DaHT-_E6QxyKPbfkposW/edit?usp=drive_link&ouid=114835549763971800629&rtpof=true&sd=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
