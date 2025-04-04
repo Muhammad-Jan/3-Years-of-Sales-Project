@@ -33,7 +33,7 @@ I Developed an **end-to-end sales analytics solution** in Excel to evaluate busi
 **Display monthly profit trends** to align budgeting and forecasting.  
 
 ## Dashboard Interaction
-- **Interactive Dashboard:** [04 Years Sales Dashboard](https://docs.google.com/spreadsheets/d/1zXYDxpiyxV79DaHT-_E6QxyKPbfkposW/edit?usp=drive_link&ouid=114835549763971800629&rtpof=true&sd=true)
+- **Interactive Dashboard:** [04 Years of Sales Dashboard](https://docs.google.com/spreadsheets/d/1zXYDxpiyxV79DaHT-_E6QxyKPbfkposW/edit?usp=drive_link&ouid=114835549763971800629&rtpof=true&sd=true)
 - The dashboard is equipped with **slicers** and **dynamic filters** to allow users to interact with the data and gain insights based on specific criteria.
 
 ## Dashboard Previews
