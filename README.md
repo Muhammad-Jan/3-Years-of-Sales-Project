@@ -34,11 +34,10 @@ Developed an **end-to-end sales analytics solution** in Excel to evaluate busine
 - **Interactive Dashboard:** [3 Years Sales Dashboard](https://docs.google.com/spreadsheets/d/1zXYDxpiyxV79DaHT-_E6QxyKPbfkposW/edit?usp=drive_link&ouid=114835549763971800629&rtpof=true&sd=true)
 - The dashboard is equipped with **slicers** and **dynamic filters** to allow users to interact with the data and gain insights based on specific criteria.
 
-## Dashboard Screenshot
 ## Dashboard Previews
 
 ### Section A: Monthly Performance Overview
-[![Monthly Performance Dashboard](https://github.com/Muhammad-Jan/Sales-Complete-Project/blob/main/Home%20Store%20Sales%20Performance.jpg)](https://github.com/Muhammad-Jan/Sales-Complete-Project/blob/main/Home%20Store%20Sales%20Performance.jpg)
+[![Monthly Performance Dashboard](https://github.com/Muhammad-Jan/Sales-Complete-Project/blob/main/Home%20Store%20Sales%20Performance.jpg)](https://github.com/Muhammad-Jan/3-Years-of-Sales-Project/blob/main/Section_A.jpg)
 
 ### Section B: Business Analytics Snapshot 
 [![Business Analytics Dashboard](https://github.com/Muhammad-Jan/3-Years-of-Sales-Project/blob/main/Section_B.jpg)](https://github.com/Muhammad-Jan/3-Years-of-Sales-Project/blob/main/Section_B.jpg)
