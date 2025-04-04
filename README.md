@@ -43,8 +43,6 @@ Developed an **end-to-end sales analytics solution** in Excel to evaluate busine
 ### Section B: Business Analytics Snapshot 
 [![Business Analytics Dashboard](https://github.com/Muhammad-Jan/3-Years-of-Sales-Project/blob/main/Section_B.jpg)](https://github.com/Muhammad-Jan/3-Years-of-Sales-Project/blob/main/Section_B.jpg)
 
-- **Interactive Dashboard:** -[Home Store Sales Performance Dashboard]( https://github.com/Muhammad-Jan/Sales-Complete-Project/blob/main/Home%20Store%20Sales%20Performance.xlsx)
-
 
 
 
