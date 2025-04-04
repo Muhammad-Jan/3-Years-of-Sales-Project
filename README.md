@@ -37,7 +37,7 @@ Developed an **end-to-end sales analytics solution** in Excel to evaluate busine
 ## Dashboard Previews
 
 ### Section A: Monthly Performance Overview
-[![Monthly Performance Dashboard](https://github.com/Muhammad-Jan/Sales-Complete-Project/blob/main/Home%20Store%20Sales%20Performance.jpg)](https://github.com/Muhammad-Jan/3-Years-of-Sales-Project/blob/main/Section_A.jpg)
+[![Monthly Performance Dashboard](https://github.com/Muhammad-Jan/3-Years-of-Sales-Project/blob/main/Section_A.jpg)](https://github.com/Muhammad-Jan/3-Years-of-Sales-Project/blob/main/Section_A.jpg)
 
 ### Section B: Business Analytics Snapshot 
 [![Business Analytics Dashboard](https://github.com/Muhammad-Jan/3-Years-of-Sales-Project/blob/main/Section_B.jpg)](https://github.com/Muhammad-Jan/3-Years-of-Sales-Project/blob/main/Section_B.jpg)
